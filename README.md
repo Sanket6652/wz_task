@@ -1,3 +1,3 @@
-# new_project_name
+# WZ_TASK
 
-A new Flutter project.
+A WZ_TASK Flutter project.
